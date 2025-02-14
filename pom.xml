@@ -49,7 +49,7 @@
         <fastjson2.version>2.0.49</fastjson2.version>
         <lombok.version>1.18.34</lombok.version>
         <!--        <druid.version>1.2.22</druid.version>-->
-        <netty-all.version>4.1.115.Final</netty-all.version>
+        <netty-all.version>4.1.118.Final</netty-all.version>
         <redisson.version>3.36.0</redisson.version>
         <minio.version>8.5.9</minio.version>
         <!--        <snakeyaml.version>2.0</snakeyaml.version>-->
